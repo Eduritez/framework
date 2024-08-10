@@ -1,9 +1,3 @@
-## :globe_with_meridians: Getting started:
-
-```bash
-git clone https://github.com/AzureLegacy/AnimeBalls
-```
-
 ## :page_facing_up: Documentation:
 
 ### :package: Framework
