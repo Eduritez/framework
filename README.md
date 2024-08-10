@@ -2,7 +2,7 @@
 
 ### :package: Framework
 
-This game uses a custom lightweight framework that simplifies communication between scripts (similar to Knit). It also improves workflow by simplifying frequent lines of code.
+This is a custom lightweight framework for Roblox games that simplifies communication between scripts (similar to Knit). It also improves workflow by simplifying frequent lines of code.
 
 It's organized by two types of script: services and controllers, for server and client respectively.
 
